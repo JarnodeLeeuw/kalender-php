@@ -1,8 +1,8 @@
 <?php
 
-/*function getAllBirthdays()
+function getAllBirthdays()
 {
-	$db = openDatabaseConnection
+	$db = openDatabaseConnection();
 
 	$sql = "SELECT * FROM birthdays";
 	$query = $db->prepare($sql);				
@@ -14,4 +14,4 @@
 	return $query->fetchAll();
 
 }
-*/
+
