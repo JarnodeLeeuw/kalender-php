@@ -6,7 +6,7 @@
 		<input type="text" name="month" placeholder="month number">
 		<input type="text" name="year" placeholder="year">
 
-		<input type="submit" value="Verzenden">
+		<input type="submit" value="Send">
 	
 	</form>
 
